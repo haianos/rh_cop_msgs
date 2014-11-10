@@ -1,0 +1,13 @@
+# Define the task
+string id
+ConstraintSpec[] primary
+ConstraintSpec[] auxiliary
+ConstraintSpec[] safety
+MonitorSpec[] monitors
+---
+# Define the result
+bool res
+---
+# Define a feedback message
+string[] events
+float32 percent_complete #replace with constraint feedback later on
