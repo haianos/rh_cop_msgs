@@ -12,6 +12,7 @@ uint8 ANGLE_BTW_VERSORS=6
 uint8 ANGLE_BTW_PLANE_AND_VERSOR=7
 uint8 ANGLE_BTW_LINE_AND_POINT=8
 
+string id
 int32 expression
 PrimitiveSpec p1
 PrimitiveSpec p2
