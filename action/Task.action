@@ -10,4 +10,4 @@ bool res
 ---
 # Define a feedback message
 string[] events
-float32 percent_complete #replace with constraint feedback later on
+ContinuousFeedback feedback
