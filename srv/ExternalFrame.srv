@@ -1,0 +1,5 @@
+string operation #valid operations "add","remove"
+string frame
+string reference
+---
+int32 result #operation result
