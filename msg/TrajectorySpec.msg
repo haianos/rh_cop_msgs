@@ -1,8 +1,8 @@
 # Trajectory Type
 uint8 CONSTANT=1
 uint8 TRAPEZOIDAL=2
-uint8 TRAPEZOIDAL_WITH_DURATION=2
-uint8 HOLD=3
+uint8 TRAPEZOIDAL_WITH_DURATION=3
+uint8 HOLD=4
 
 int32 type
 float64 target # CONSTANT or TRAPEZOIDAL
